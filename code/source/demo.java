@@ -31,7 +31,7 @@ public final class demo
 		// --- <<IS-START(new_javaService)>> ---
 		// @sigtype java 3.5
 		try {
-			Thread.sleep(120000);
+			Thread.sleep(300000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
